@@ -13,7 +13,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShipmentService", "Shipment
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoggingService", "Logging\LoggingService.csproj", "{3248E2DC-5A56-4E6E-AB4D-C340D64D672E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageService", "MessageService\MessageService.csproj", "{2DD59E54-517F-45CE-A33B-0E1A5BE36541}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageService", "MessageService\MessageService.csproj", "{2DD59E54-517F-45CE-A33B-0E1A5BE36541}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3BC9B747-3897-4E1E-A938-54219F6E801A}"
+	ProjectSection(SolutionItems) = preProject
+		Doc.docx = Doc.docx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
