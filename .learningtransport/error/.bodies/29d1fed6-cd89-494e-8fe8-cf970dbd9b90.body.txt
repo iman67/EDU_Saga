@@ -1,0 +1,1 @@
+<?xml version="1.0"?><PaymentService xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:baseType="PaymentService.Contracts.IPaymentService" xmlns="http://tempuri.net/PaymentService.Services"><OrderId>02f75be3-80f2-45e7-9987-326fef585d05</OrderId></PaymentService>
